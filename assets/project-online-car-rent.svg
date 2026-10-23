@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280" role="img" aria-label="Online Car Rent GitHub project, PHP-based project card">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#092333"/><stop offset="1" stop-color="#07131d"/></linearGradient><linearGradient id="c" x1="0" x2="1"><stop stop-color="#3ad5e4"/><stop offset="1" stop-color="#83a0e8"/></linearGradient></defs>
+<rect width="580" height="280" rx="20" fill="url(#b)" stroke="#2a7088" stroke-width="2" />
+<g opacity=".4" stroke="#16516a" fill="none"><path d="M 290 35 L 560 35 M 360 65 L 560 65 M 420 97 L 560 97"/><path d="M 24 242 L 548 242"/></g>
+<rect x="26" y="28" width="10" height="10" rx="3" fill="#54d9e7"/><text x="47" y="39" fill="#79d8e5" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="1.6">PROJECT / 01</text>
+<text x="26" y="108" fill="#f0faff" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="700">Online Car Rent</text>
+<text x="27" y="144" fill="#a6c3d0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">Web project  ·  PHP</text>
+<g transform="translate(298,80)" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M35 107 L58 60 Q62 51 74 51 H161 Q172 51 179 62 L203 107" stroke="url(#c)" stroke-width="5"/><path d="M17 106 H215 Q225 106 225 117 V147 H8 V120 Q8 110 17 106Z" fill="#113d53" stroke="#4cdae8" stroke-width="3"/><path d="M66 63 H165 L181 105 H46 Z" stroke="#74c9e4" stroke-width="2"/><path d="M116 65 V104" stroke="#74c9e4" stroke-width="2"/><path d="M17 123 H45 M188 123 H216" stroke="#b3edfa" stroke-width="4"/><circle cx="50" cy="151" r="17" fill="#061925" stroke="#9acddb" stroke-width="5"/><circle cx="182" cy="151" r="17" fill="#061925" stroke="#9acddb" stroke-width="5"/></g>
+<path d="M 26 221 H 212" stroke="#2d6173" stroke-width="1"/><text x="27" y="252" fill="#55d3e2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">EXPLORE REPOSITORY  →</text>
+</svg>

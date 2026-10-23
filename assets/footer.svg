@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-label="Keep learning. Keep building. Thank you for visiting.">
+<defs><linearGradient id="g"><stop stop-color="#071824"/><stop offset=".5" stop-color="#0d2f40"/><stop offset="1" stop-color="#071824"/></linearGradient><linearGradient id="line"><stop stop-color="#2ac9dd" stop-opacity="0"/><stop offset=".5" stop-color="#47ecf1"/><stop offset="1" stop-color="#2ac9dd" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="105" rx="15" fill="url(#g)"/>
+<path d="M0 10 H1200" stroke="url(#line)" stroke-width="2"/>
+<path d="M0 92 H1200" stroke="#2e6c86" stroke-opacity=".5"/>
+<text x="600" y="49" font-family="DejaVu Sans, Arial, sans-serif" fill="#e3f9ff" font-size="20" font-weight="700" letter-spacing="3" text-anchor="middle">KEEP LEARNING. KEEP BUILDING.</text>
+<text x="600" y="76" font-family="DejaVu Sans, Arial, sans-serif" fill="#79adbf" font-size="13" text-anchor="middle">Thank you for visiting  ·  ArafatJamil254</text>
+<circle cx="330" cy="43" r="5" fill="#39cfe0"/><circle cx="865" cy="43" r="5" fill="#39cfe0"/>
+</svg>

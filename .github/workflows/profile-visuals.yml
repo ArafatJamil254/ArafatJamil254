@@ -1,0 +1,39 @@
+name: Refresh Profile Visuals
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Updates daily at 02:17 UTC (08:17 Bangladesh time)
+    - cron: '17 2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Draw real GitHub contribution animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ArafatJamil254
+          outputs: |
+            dist/github-snake.svg?color_snake=#16c2dc&color_dots=#f1fbfd,#b0e3ed,#79cada,#3b93b4,#136080
+            dist/github-snake-dark.svg?color_snake=#67e9f2&color_dots=#0c1d2b,#174058,#206984,#31a1b5,#86dfe9
+
+      - name: Create branded public GitHub statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_stats.py --username ArafatJamil254 --output dist/github-stats.svg
+
+      - name: Publish generated graphics to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

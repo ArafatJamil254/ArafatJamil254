@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="277" viewBox="0 0 1200 277" role="img" aria-label="Live public GitHub account statistics for ArafatJamil254">
+<defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#081824"/><stop offset="1" stop-color="#0b2938"/></linearGradient></defs>
+<rect width="1200" height="277" rx="18" fill="url(#bg)" stroke="#28667d" stroke-width="2" />
+<text x="33" y="52" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#dff8fc" letter-spacing="1.6">PUBLIC GITHUB SIGNAL</text>
+<circle cx="1060" cy="42" r="5" fill="#4adfcc"/><text x="1075" y="47" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#92d8df">LIVE</text>
+<g>
+      <rect x="33" y="80" width="348" height="124" rx="16" fill="#0e3142" stroke="#24596f" stroke-width="1.3" />
+      <rect x="53" y="100" width="4" height="22" rx="2" fill="#46dce9" />
+      <text x="73" y="126" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#87b9c9" letter-spacing="1.6">PUBLIC REPOSITORIES</text>
+      <text x="55" y="181" font-family="DejaVu Sans, Arial, sans-serif" font-size="48" font-weight="700" fill="#effbff">—</text>
+      <text x="334" y="184" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#427e98">01</text>
+    </g>
+<g>
+      <rect x="427" y="80" width="348" height="124" rx="16" fill="#0e3142" stroke="#24596f" stroke-width="1.3" />
+      <rect x="447" y="100" width="4" height="22" rx="2" fill="#46dce9" />
+      <text x="467" y="126" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#87b9c9" letter-spacing="1.6">REPOSITORY STARS</text>
+      <text x="449" y="181" font-family="DejaVu Sans, Arial, sans-serif" font-size="48" font-weight="700" fill="#effbff">—</text>
+      <text x="728" y="184" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#427e98">02</text>
+    </g>
+<g>
+      <rect x="821" y="80" width="348" height="124" rx="16" fill="#0e3142" stroke="#24596f" stroke-width="1.3" />
+      <rect x="841" y="100" width="4" height="22" rx="2" fill="#46dce9" />
+      <text x="861" y="126" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#87b9c9" letter-spacing="1.6">FOLLOWERS</text>
+      <text x="843" y="181" font-family="DejaVu Sans, Arial, sans-serif" font-size="48" font-weight="700" fill="#effbff">—</text>
+      <text x="1122" y="184" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#427e98">03</text>
+    </g>
+<path d="M 35 224 H 1167" stroke="#22576a" />
+<text x="34" y="250" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#84b6c7">LAYOUT PREVIEW · NOT LIVE DATA</text>
+<text x="1166" y="250" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#84b6c7" text-anchor="end">UPDATES AFTER WORKFLOW RUN</text>
+</svg>

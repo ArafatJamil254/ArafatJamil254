@@ -1,91 +1,68 @@
 <div align="center">
-
-# Hi, I'm Md. Arafat Jamil 👋
-
-**Software Developer | AI/ML Learner**  
-Computer Science & Engineering Undergraduate at **American International University-Bangladesh (AIUB)**
-
-*Building software. Exploring intelligent systems.*
-
-[**Portfolio**](https://arafatjamil.pro.bd/) · [**GitHub Projects**](https://github.com/ArafatJamil254?tab=repositories)
-
+  <a href="https://arafatjamil.pro.bd/" title="Visit my portfolio">
+    <img src="./assets/hero.svg" alt="Md. Arafat Jamil — Software Developer and AI/ML Learner" width="100%" />
+  </a>
+  <img src="./assets/typing.gif" alt="Animated introduction: software development, AI and ML, computer vision, and continuous learning" width="100%" />
+  <p>
+    <a href="https://arafatjamil.pro.bd/"><img src="https://img.shields.io/badge/PORTFOLIO-0e3446?style=for-the-badge&logo=googlechrome&logoColor=40D9EC" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/md-arafat-jamil-434276350/"><img src="https://img.shields.io/badge/LINKEDIN-0e3446?style=for-the-badge&logo=linkedin&logoColor=40D9EC" alt="LinkedIn" /></a>
+    <a href="https://github.com/ArafatJamil254?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0e3446?style=for-the-badge&logo=github&logoColor=40D9EC" alt="Repositories" /></a>
+  </p>
 </div>
 
----
+### 01 / About me
 
-### About me
+I'm a **Computer Science and Engineering undergraduate at American International University-Bangladesh (AIUB)**, interested in building practical software and exploring how AI can help solve real-world problems.
 
-Im a Computer Science and Engineering undergraduate at American International University-Bangladesh (AIUB), passionate about **software development, artificial intelligence, and exploring how technology can solve real-world problems**.
+- **I build:** web applications and software projects.
+- **I'm exploring:** machine learning, computer vision, and statistical data analysis.
+- **I value:** hands-on learning, experimentation, clear documentation, and thoughtful engineering.
 
-My interests span **software engineering, web development, artificial intelligence, machine learning, and emerging technologies**. I enjoy learning new concepts, experimenting with different tools, and transforming ideas into practical solutions. Through academic work, personal projects, and continuous self-learning, Im building a strong foundation in programming, software systems, and problem-solving.
+> Building software. Exploring intelligent systems.
 
-Beyond development, Im particularly **interested in AI research, intelligent systems, and responsible technology**. I believe that understanding how technology works is just as important as knowing how to use it, which motivates me to explore, experiment, and continuously improve my skills.
+### 02 / Technologies & interests
 
-Im committed to growing both technically and professionally, expanding my knowledge through hands-on experience, technical exploration, and industry-recognized learning programs.
+<img src="./assets/tech-stack.svg" alt="Programming and tools: Python, JavaScript, PHP, HTML5, CSS3, Git, and GitHub. Focus areas: artificial intelligence, machine learning, computer vision, data analysis." width="100%" />
 
-Im always open to connecting with fellow developers, researchers, and technology enthusiasts, as well as exploring internships, collaborative projects, and research opportunities.
+<sub>Languages and tools are shown separately from my current learning and research interests.</sub>
 
-### What I'm focusing on
+### 03 / Featured work
 
-- **Software development:** Building useful, accessible applications and improving my engineering fundamentals.
-- **AI and machine learning:** Learning model development, evaluation, and applications of computer vision.
-- **Research and experimentation:** Exploring ideas, validating results, and documenting what I learn.
-- **Continuous learning:** Deepening my knowledge of networking, cybersecurity, and emerging technologies.
+<a href="https://github.com/ArafatJamil254/online-car-rent" title="Online Car Rent GitHub repository"><img src="./assets/project-online-car-rent.svg" width="49%" alt="Online Car Rent project — PHP" /></a>
+<a href="https://github.com/ArafatJamil254/roseila-ecommerce" title="Roseila E-commerce GitHub repository"><img src="./assets/project-roseila-ecommerce.svg" width="49%" alt="Roseila E-commerce project — JavaScript" /></a>
 
+**More work:** [Explore all repositories](https://github.com/ArafatJamil254?tab=repositories) · [Explore my portfolio](https://arafatjamil.pro.bd/)
 
-### 🛠️ Technologies & Skills
-
-#### 💻 Programming & Web Development
-
-![Python](https://img.shields.io/badge/Python-172B3A?style=flat-square&logo=python&logoColor=55C9DE)
-![JavaScript](https://img.shields.io/badge/JavaScript-172B3A?style=flat-square&logo=javascript&logoColor=55C9DE)
-![HTML5](https://img.shields.io/badge/HTML5-172B3A?style=flat-square&logo=html5&logoColor=55C9DE)
-![CSS3](https://img.shields.io/badge/CSS3-172B3A?style=flat-square&logo=css&logoColor=55C9DE)
-
-#### 🧠 Artificial Intelligence & Data Science
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-172B3A?style=flat-square&logoColor=55C9DE)
-![ML](https://img.shields.io/badge/Machine_Learning-172B3A?style=flat-square&logoColor=55C9DE)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-172B3A?style=flat-square&logoColor=55C9DE)
-![Statistical Data Analysis](https://img.shields.io/badge/Statistical_Data_Analysis-172B3A?style=flat-square&logoColor=55C9DE)
-
-#### 🔧 Tools & Development
-
-![Git](https://img.shields.io/badge/Git-172B3A?style=flat-square&logo=git&logoColor=55C9DE)
-![GitHub](https://img.shields.io/badge/GitHub-172B3A?style=flat-square&logo=github&logoColor=55C9DE)
-
-#### 🔬 Additional Interests
-
-![Networking](https://img.shields.io/badge/Computer_Networking-172B3A?style=flat-square&logoColor=55C9DE)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-172B3A?style=flat-square&logoColor=55C9DE)
-![Research](https://img.shields.io/badge/AI_Research-172B3A?style=flat-square&logoColor=55C9DE)
-![Technical Writing](https://img.shields.io/badge/Technical_Writing-172B3A?style=flat-square&logoColor=55C9DE)
-
-
-**Areas of interest**
-
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Statistical Data Analysis` · `Web Development` · `Networking` · `Cybersecurity`
-
-### Work and projects
-
-- 🌐 **[Personal Portfolio](https://arafatjamil.pro.bd/)** — A central place for my software, learning, research interests, and technical writing.
-- 💻 **[Explore my GitHub repositories](https://github.com/ArafatJamil254?tab=repositories)** — Browse my publicly shared code and ongoing work.
-
-*For project-specific details, see the documentation available in each repository.*
-
-### Learning highlights
-
-- **IBM AI Literacy** — credential featured on my LinkedIn profile.
-- **Get started with AI in Azure** — Microsoft Learn achievement featured on my LinkedIn profile.
-
-### Connect
-
-I'm interested in collaborating on meaningful software and applied AI projects, learning from others, and sharing technical ideas.
-
-**[Portfolio](https://arafatjamil.pro.bd/)** · **[Linkedin](https://www.linkedin.com/in/md-arafat-jamil-434276350/)**
-
----
+### 04 / GitHub activity
 
 <div align="center">
-  <sub>Learning continuously · Building with purpose</sub>
+  <img src="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-stats.svg" alt="Live public GitHub statistics: repositories, repository stars, followers" width="100%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-snake-dark.svg" alt="Animated GitHub contribution graph for ArafatJamil254" width="100%" />
+  </picture>
+</div>
+
+<details>
+  <summary><strong>Learning highlights</strong></summary>
+  <br />
+
+  - **IBM AI Literacy** — certificate.
+  - **Get started with AI in Azure** — Microsoft Learn achievement.
+
+  See my [LinkedIn profile](https://www.linkedin.com/in/md-arafat-jamil-434276350/) for more of my learning journey.
+</details>
+
+### 05 / Let's connect
+
+I'm interested in connecting with developers, fellow learners, and researchers working on meaningful technology.
+
+**[Portfolio](https://arafatjamil.pro.bd/)** · **[LinkedIn](https://www.linkedin.com/in/md-arafat-jamil-434276350/)** · **[GitHub](https://github.com/ArafatJamil254)**
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="Keep learning. Keep building. Thank you for visiting." width="100%" />
 </div>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280" role="img" aria-label="Roseila E-commerce GitHub project, JavaScript project card">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b33"/><stop offset="1" stop-color="#081725"/></linearGradient><linearGradient id="p" x1="0" x2="1"><stop stop-color="#50cadc"/><stop offset="1" stop-color="#9f9df0"/></linearGradient></defs>
+<rect width="580" height="280" rx="20" fill="url(#b)" stroke="#51638e" stroke-width="2"/>
+<circle cx="474" cy="151" r="104" fill="#6e6cbd" opacity=".08"/><circle cx="474" cy="151" r="80" fill="none" stroke="#8e8dd6" stroke-width="1" stroke-opacity=".4" stroke-dasharray="3 9" />
+<rect x="26" y="28" width="10" height="10" rx="3" fill="#a59bf3"/><text x="47" y="39" fill="#b1b5f3" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="1.6">PROJECT / 02</text>
+<text x="26" y="108" fill="#f0faff" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700">Roseila E-commerce</text>
+<text x="27" y="144" fill="#b6c0d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="15">E-commerce project  ·  JavaScript</text>
+<g transform="translate(390,73)" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M31 66 H143 L130 172 H44Z" fill="#24374f" stroke="url(#p)" stroke-width="4"/><path d="M61 68 V49 C61 16 113 16 113 49 V68" stroke="#77d6e8" stroke-width="5"/><path d="M66 109 L82 125 L114 96" stroke="#9d9cf1" stroke-width="7"/><path d="M12 189 H159" stroke="#6aa2ca" opacity=".4"/></g>
+<path d="M 26 221 H 212" stroke="#43516f" stroke-width="1"/><text x="27" y="252" fill="#aaa5fa" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">EXPLORE REPOSITORY  →</text>
+</svg>
