@@ -14,9 +14,9 @@
 
 I'm a **Computer Science and Engineering undergraduate at American International University-Bangladesh (AIUB)**, interested in building practical software and exploring how AI can help solve real-world problems.
 
-- **I build:** web applications and software projects.
-- **I'm exploring:** machine learning, computer vision, and statistical data analysis.
-- **I value:** hands-on learning, experimentation, clear documentation, and thoughtful engineering.
+- **I build:** Web Applications and Software Projects.
+- **I'm exploring:** Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Data analysis.
+- **I value:** Hands-on Learning, Experimentation, Clear Documentation, and Thoughtful Engineering.
 
 > Building software. Exploring intelligent systems.
 
