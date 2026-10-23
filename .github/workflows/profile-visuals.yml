@@ -1,39 +1,59 @@
 name: Refresh Profile Visuals
 
+# Images live on the same branch as README.md, so no output branch is needed.
 on:
   workflow_dispatch:
   schedule:
-    # Updates daily at 02:17 UTC (08:17 Bangladesh time)
-    - cron: '17 2 * * *'
+    - cron: '17 2 * * *'  # Daily at 08:17 in Bangladesh
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - name: Checkout profile repository
+      - name: Check out profile repository's default branch
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: true
 
-      - name: Draw real GitHub contribution animation
-        uses: Platane/snk@v3
+      - name: Generate contribution animations
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ArafatJamil254
           outputs: |
-            dist/github-snake.svg?color_snake=#16c2dc&color_dots=#f1fbfd,#b0e3ed,#79cada,#3b93b4,#136080
-            dist/github-snake-dark.svg?color_snake=#67e9f2&color_dots=#0c1d2b,#174058,#206984,#31a1b5,#86dfe9
+            assets/github-snake.svg?color_snake=#168fa5&color_dots=#e3f8fc,#a9dfeb,#76c5d9,#3b8cae,#16566e
+            assets/github-snake-dark.svg?color_snake=#67e9f2&color_dots=#0b1f2d,#174058,#206984,#31a1b5,#86dfe9
 
-      - name: Create branded public GitHub statistics
+      - name: Generate statistics from the public GitHub API
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/build_stats.py --username ArafatJamil254 --output dist/github-stats.svg
+        run: |
+          python3 scripts/build_stats.py --username ArafatJamil254 --output assets/github-stats.svg
 
-      - name: Publish generated graphics to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check all generated files
+        run: |
+          test -s assets/github-stats.svg
+          test -s assets/github-snake.svg
+          test -s assets/github-snake-dark.svg
+          echo "All three graphics were generated."
+
+      - name: Commit refreshed images to the default branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/github-snake.svg assets/github-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No visual changes to publish."
+          else
+            git commit -m "chore: refresh profile activity graphics [skip ci]"
+            git push origin HEAD:${{ github.event.repository.default_branch }}
+          fi

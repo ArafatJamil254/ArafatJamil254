@@ -36,14 +36,14 @@ I'm a **Computer Science and Engineering undergraduate at American International
 ### 04 / GitHub activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-stats.svg" alt="Live public GitHub statistics: repositories, repository stars, followers" width="100%" />
+  <img src="./assets/github-stats.svg" alt="Live public GitHub statistics: repositories, repository stars, followers" width="100%" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ArafatJamil254/ArafatJamil254/output/github-snake-dark.svg" alt="Animated GitHub contribution graph for ArafatJamil254" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake-dark.svg" alt="Animated GitHub contribution graph for ArafatJamil254" width="100%" />
   </picture>
 </div>
 
