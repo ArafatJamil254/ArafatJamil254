@@ -26,14 +26,7 @@ I'm a **Computer Science and Engineering undergraduate at American International
 
 <sub>Languages and tools are shown separately from my current learning and research interests.</sub>
 
-### 03 / Featured work
-
-<a href="https://github.com/ArafatJamil254/online-car-rent" title="Online Car Rent GitHub repository"><img src="./assets/project-online-car-rent.svg" width="49%" alt="Online Car Rent project — PHP" /></a>
-<a href="https://github.com/ArafatJamil254/roseila-ecommerce" title="Roseila E-commerce GitHub repository"><img src="./assets/project-roseila-ecommerce.svg" width="49%" alt="Roseila E-commerce project — JavaScript" /></a>
-
-**More work:** [Explore all repositories](https://github.com/ArafatJamil254?tab=repositories) · [Explore my portfolio](https://arafatjamil.pro.bd/)
-
-### 04 / GitHub activity
+### 03 / GitHub activity
 
 <div align="center">
   <img src="./assets/github-stats.svg" alt="Live public GitHub statistics: repositories, repository stars, followers" width="100%" />
@@ -57,7 +50,7 @@ I'm a **Computer Science and Engineering undergraduate at American International
   See my [LinkedIn profile](https://www.linkedin.com/in/md-arafat-jamil-434276350/) for more of my learning journey.
 </details>
 
-### 05 / Let's connect
+### 04 / Let's connect
 
 I'm interested in connecting with developers, fellow learners, and researchers working on meaningful technology.
 
